@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to your new dbt project!
 
 ### How to run this project 
@@ -36,3 +37,6 @@ _Alternative: use `$ dbt build` to execute with one command the 3 steps above to
 - Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+=======
+# week4datazoomcamp
+>>>>>>> f30d88fdced7511f038dfab3b3158750338a7c35
